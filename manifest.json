@@ -1,0 +1,12 @@
+{
+  "name": "Oogle Chat",
+  "description": "Client for Oogle Chat",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "ooglechat-16.png", "128": "ooglechat-128.png" }
+}
